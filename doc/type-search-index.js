@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.kodigo.linkedlist","l":"ListaEnlazadaSimple"},{"p":"com.kodigo.linkedlist","l":"ListaEnlazadaSimpleTest"},{"p":"com.kodigo.linkedlist","l":"Main"},{"p":"com.kodigo.linkedlist","l":"Nodo"}];updateSearchResults();
